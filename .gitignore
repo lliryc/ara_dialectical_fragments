@@ -208,3 +208,5 @@ __marimo__/
 
 rewayat
 rewayat_tsv
+data_*
+output_data/
